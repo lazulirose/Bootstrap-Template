@@ -48,3 +48,10 @@ lang specifies Japanese.
 1.  In the case of the PC screen width, the space between the texts is separated by a solid line.
 2.  The footer has an upper line, and the width is 100% of Brother's width.
 3.  The text is vertically aligned when displayed in smart font.
+
+## Author & License
+lazurilose
+ - [WebSite](http://lazulirose.com/)
+ - [Twitter](https://twitter.com/lazulirose_en)
+ 
+[MIT LICENSE](https://lazulirose.github.io/mit-license/)
